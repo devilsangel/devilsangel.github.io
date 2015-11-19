@@ -172,7 +172,7 @@ h6 {
 /* 4. Top Navbar
 -------------------------------------*/
 .top-navbar {
-  background-color: #fff;
+  background-color: #00ffff;
   min-height: 100px;
   padding: 0 10px;
   border-bottom: 5px solid #57bcca;
@@ -180,10 +180,11 @@ h6 {
 }
 .top-navbar .navbar-brand {
   margin-top: 6px;
+  border-radius: 5px;
 }
 .top-navbar .navbar-default {
   border: none;
-  background-color: #ffffff;
+  background-color: #00ffff;
 }
 .top-navbar .navbar-default .navbar-nav {
   margin-top: 25px;
@@ -197,6 +198,7 @@ h6 {
   font-size: 16px;
   color: #57bcca;
   text-decoration: none;
+  border-radius: 5px;
 }
 .top-navbar .navbar-default .navbar-nav .active > a:after {
   content: '';
