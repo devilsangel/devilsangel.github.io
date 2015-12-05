@@ -345,7 +345,7 @@ h6 {
 .features h2 {
   text-align: center;
   font-size: 54px;
-  font-weight: 600;
+  font-weight: 300;
   margin: 0 0 120px 0;
   padding: 0;
   color: #4a4a4a;
@@ -1298,6 +1298,7 @@ h6 {
   vertical-align: middle;
 }
 .contact .input-group.textbox textarea {
+  background-color: #f1f1f1;
   float: left;
   width: 490px;
 }
