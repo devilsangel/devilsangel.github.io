@@ -343,8 +343,7 @@ h6 {
   background-color: #f1f1f1;
 }
 .features h2 {
-  text-align: center;
-  font-size: 54px;
+  font-size: 36px;
   font-weight: 300;
   margin: 0 0 120px 0;
   padding: 0;
@@ -355,7 +354,7 @@ h6 {
   border-bottom: 7px solid #57bcca;
   background-color: #fff;
   padding-top: 34px;
-  text-align: center;
+  text-align: justify;
   -webkit-transition: all 0.5s ease;
           transition: all 0.5s ease;
 }
@@ -1798,7 +1797,7 @@ footer:after {
     padding-bottom: 70px;
   }
   .features h2 {
-    font-size: 42px;
+    font-size: 36px;
     margin: 0 0 65px 0;
   }
   .features .feature {
